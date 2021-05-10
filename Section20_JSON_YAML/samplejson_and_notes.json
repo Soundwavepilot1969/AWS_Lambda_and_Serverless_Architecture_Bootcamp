@@ -1,13 +1,16 @@
 {
-    "name": "riyaz",
-    "age": 35,
+    "name": "Ashwin",
     "loves programming": true,
     "contact": {
-        "email": "hello@rizmax.com",
-        "website": "rizmax.com"
+        "email": "ashwin.radhakrishnanXX@gmail.com",
+        "website": "https://www.linkedin.com/in/ashwin-radhakrishnan1969/"
     },
     "languages known": [
-        "Node.js", "PHP", "Python", "Java", "C#", "ABAP"
+        "Node.js", "PHP", "Python"
     ],
     "can be null": null
 }
+
+// Links for yaml 
+// https://yaml.org/start.html
+// https://yaml.org/refcard.html

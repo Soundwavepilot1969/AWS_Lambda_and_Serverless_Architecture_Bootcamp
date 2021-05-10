@@ -8,7 +8,7 @@ ___
 
 ___
 <!-- Images -->
-![Course Screenshot]()
+![Course Screenshot](https://github.com/Soundwavepilot1969/AWS_Lambda_and_Serverless_Architecture_Bootcamp/blob/c2a2d85f793a554877e36da62c74d860dd59536b/course_img.jpg)
 ### **About the Course**
 Click here for [Course URL](https://www.udemy.com/course/aws-lambda-serverless-architecture/ "Udemy Url")
 
