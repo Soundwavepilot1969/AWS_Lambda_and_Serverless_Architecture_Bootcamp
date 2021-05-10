@@ -1,0 +1,13 @@
+{
+    "name": "riyaz",
+    "age": 35,
+    "loves programming": true,
+    "contact": {
+        "email": "hello@rizmax.com",
+        "website": "rizmax.com"
+    },
+    "languages known": [
+        "Node.js", "PHP", "Python", "Java", "C#", "ABAP"
+    ],
+    "can be null": null
+}
